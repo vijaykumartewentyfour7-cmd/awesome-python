@@ -1,0 +1,6 @@
+{
+  "name": "Awesome Python",
+  "description": "Curated directory of the best Python frameworks, libraries, software and tools with categories, search, metrics, and details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
